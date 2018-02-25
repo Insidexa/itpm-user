@@ -1,4 +1,4 @@
-itpm-shared@0.0.41
+itpm-shared@0.0.42
 MIT
 MIT License
 
@@ -54,7 +54,15 @@ ISC
 MIT
 MIT
 
+@ngx-loading-bar/http-client@1.2.0
+MIT
+MIT
+
 @angular/common@5.2.4
+MIT
+MIT
+
+@ngx-loading-bar/core@1.2.0
 MIT
 MIT
 
